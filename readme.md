@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Aakansha kansal</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A  passionate web and Three.js developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aakanshakansal" alt="aakanshakansal" /></a> </p>
 
-- Hi, I'm currently working on **Web Development**
+- 👩‍💻 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **Three.js ,**
+- 🎯 Specialized in **Three.js** for creating interactive 3D experiences on the web
 
-- 💬 Ask me about **react, three.js**
+- 🌱 I’m currently learning **Blockchain Development using Hedera Hashgraph**
+
+- 💬 Ask me about **React, Three.js**
 
 - 📫 How to reach me **aakanshakansal56@gmail.com**
 
